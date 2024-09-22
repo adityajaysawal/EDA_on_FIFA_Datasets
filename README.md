@@ -1,4 +1,4 @@
-**Exploratory Data Analysis on FIFA Datasets**
+# Exploratory Data Analysis on FIFA Datasets
 
 The EDA was conducted on FIFA datasets to gain insights into player attributes, team strategies, and match outcomes, with a focus on analyzing performance in knockout vs non-knockout matches. The analysis covered the following aspects:
 
